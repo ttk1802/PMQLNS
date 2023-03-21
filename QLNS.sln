@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLNS", "QLNS\QLNS.csproj", "{600F2568-E594-43CF-9329-01F30D4C2572}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Commonlib", "Commonlib\Commonlib.csproj", "{2DD02238-CC0D-4E58-9248-EB1FF48580C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{484B3AD4-03B7-470D-A0A0-6E144C90431A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{600F2568-E594-43CF-9329-01F30D4C2572}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{600F2568-E594-43CF-9329-01F30D4C2572}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{600F2568-E594-43CF-9329-01F30D4C2572}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{600F2568-E594-43CF-9329-01F30D4C2572}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DD02238-CC0D-4E58-9248-EB1FF48580C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DD02238-CC0D-4E58-9248-EB1FF48580C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DD02238-CC0D-4E58-9248-EB1FF48580C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DD02238-CC0D-4E58-9248-EB1FF48580C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{484B3AD4-03B7-470D-A0A0-6E144C90431A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{484B3AD4-03B7-470D-A0A0-6E144C90431A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{484B3AD4-03B7-470D-A0A0-6E144C90431A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{484B3AD4-03B7-470D-A0A0-6E144C90431A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

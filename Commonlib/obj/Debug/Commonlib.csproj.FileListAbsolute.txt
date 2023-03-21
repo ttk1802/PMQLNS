@@ -1,0 +1,734 @@
+C:\Users\ASUS\Desktop\QLNS\Commonlib\bin\Debug\Commonlib.dll
+C:\Users\ASUS\Desktop\QLNS\Commonlib\bin\Debug\Commonlib.pdb
+C:\Users\ASUS\Desktop\QLNS\Commonlib\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\ASUS\Desktop\QLNS\Commonlib\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\ASUS\Desktop\QLNS\Commonlib\bin\Debug\DevExpress.Utils.v19.2.dll
+C:\Users\ASUS\Desktop\QLNS\Commonlib\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\Users\ASUS\Desktop\QLNS\Commonlib\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\ASUS\Desktop\QLNS\Commonlib\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\Users\ASUS\Desktop\QLNS\Commonlib\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\ASUS\Desktop\QLNS\Commonlib\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\ASUS\Desktop\QLNS\Commonlib\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\ASUS\Desktop\QLNS\Commonlib\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\ASUS\Desktop\QLNS\Commonlib\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\ASUS\Desktop\QLNS\Commonlib\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\ASUS\Desktop\QLNS\Commonlib\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\ASUS\Desktop\QLNS\Commonlib\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\ASUS\Desktop\QLNS\Commonlib\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\ASUS\Desktop\QLNS\Commonlib\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\ASUS\Desktop\QLNS\Commonlib\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\QLNS\Commonlib\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\QLNS\Commonlib\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\QLNS\Commonlib\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\QLNS\Commonlib\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\ASUS\Desktop\QLNS\Commonlib\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\ASUS\Desktop\QLNS\Commonlib\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\ASUS\Desktop\QLNS\Commonlib\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\ASUS\Desktop\QLNS\Commonlib\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\ASUS\Desktop\QLNS\Commonlib\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\ASUS\Desktop\QLNS\Commonlib\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\ASUS\Desktop\QLNS\Commonlib\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\ASUS\Desktop\QLNS\Commonlib\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\QLNS\Commonlib\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\QLNS\Commonlib\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\QLNS\Commonlib\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\QLNS\Commonlib\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\QLNS\Commonlib\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\QLNS\Commonlib\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\QLNS\Commonlib\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\QLNS\Commonlib\obj\Debug\Commonlib.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\QLNS\Commonlib\obj\Debug\Commonlib.dll
+C:\Users\ASUS\Desktop\QLNS\Commonlib\obj\Debug\Commonlib.pdb
+C:\Users\ASUS\Desktop\QLNS\Commonlib\obj\Debug\Commonlib.FRLG.resources
+C:\Users\ASUS\Desktop\QLNS\Commonlib\obj\Debug\Commonlib.csproj.GenerateResource.Cache
+C:\Users\MAY\Desktop\QLNS\QLNS\Commonlib\bin\Debug\Commonlib.dll
+C:\Users\MAY\Desktop\QLNS\QLNS\Commonlib\bin\Debug\Commonlib.pdb
+C:\Users\MAY\Desktop\QLNS\QLNS\Commonlib\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\MAY\Desktop\QLNS\QLNS\Commonlib\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\MAY\Desktop\QLNS\QLNS\Commonlib\bin\Debug\DevExpress.Utils.v19.2.dll
+C:\Users\MAY\Desktop\QLNS\QLNS\Commonlib\bin\Debug\DevExpress.XtraBars.v19.2.dll
+C:\Users\MAY\Desktop\QLNS\QLNS\Commonlib\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\Users\MAY\Desktop\QLNS\QLNS\Commonlib\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+C:\Users\MAY\Desktop\QLNS\QLNS\Commonlib\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\MAY\Desktop\QLNS\QLNS\Commonlib\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\Users\MAY\Desktop\QLNS\QLNS\Commonlib\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\MAY\Desktop\QLNS\QLNS\Commonlib\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\MAY\Desktop\QLNS\QLNS\Commonlib\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\MAY\Desktop\QLNS\QLNS\Commonlib\bin\Debug\DevExpress.XtraBars.v19.2.xml
+C:\Users\MAY\Desktop\QLNS\QLNS\Commonlib\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\MAY\Desktop\QLNS\QLNS\Commonlib\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+C:\Users\MAY\Desktop\QLNS\QLNS\Commonlib\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\MAY\Desktop\QLNS\QLNS\Commonlib\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\MAY\Desktop\QLNS\QLNS\Commonlib\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\MAY\Desktop\QLNS\QLNS\Commonlib\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\MAY\Desktop\QLNS\QLNS\Commonlib\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\MAY\Desktop\QLNS\QLNS\Commonlib\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\MAY\Desktop\QLNS\QLNS\Commonlib\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\MAY\Desktop\QLNS\QLNS\Commonlib\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\MAY\Desktop\QLNS\QLNS\Commonlib\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\MAY\Desktop\QLNS\QLNS\Commonlib\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\MAY\Desktop\QLNS\QLNS\Commonlib\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\MAY\Desktop\QLNS\QLNS\Commonlib\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\MAY\Desktop\QLNS\QLNS\Commonlib\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\MAY\Desktop\QLNS\QLNS\Commonlib\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\MAY\Desktop\QLNS\QLNS\Commonlib\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\MAY\Desktop\QLNS\QLNS\Commonlib\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\MAY\Desktop\QLNS\QLNS\Commonlib\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\MAY\Desktop\QLNS\QLNS\Commonlib\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\MAY\Desktop\QLNS\QLNS\Commonlib\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\MAY\Desktop\QLNS\QLNS\Commonlib\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\MAY\Desktop\QLNS\QLNS\Commonlib\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\MAY\Desktop\QLNS\QLNS\Commonlib\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\MAY\Desktop\QLNS\QLNS\Commonlib\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\MAY\Desktop\QLNS\QLNS\Commonlib\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\MAY\Desktop\QLNS\QLNS\Commonlib\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\MAY\Desktop\QLNS\QLNS\Commonlib\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\MAY\Desktop\QLNS\QLNS\Commonlib\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\MAY\Desktop\QLNS\QLNS\Commonlib\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\MAY\Desktop\QLNS\QLNS\Commonlib\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\MAY\Desktop\QLNS\QLNS\Commonlib\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\MAY\Desktop\QLNS\QLNS\Commonlib\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\MAY\Desktop\QLNS\QLNS\Commonlib\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\MAY\Desktop\QLNS\QLNS\Commonlib\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\MAY\Desktop\QLNS\QLNS\Commonlib\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\MAY\Desktop\QLNS\QLNS\Commonlib\obj\Debug\Commonlib.csprojResolveAssemblyReference.cache
+C:\Users\MAY\Desktop\QLNS\QLNS\Commonlib\obj\Debug\Commonlib.FRLG.resources
+C:\Users\MAY\Desktop\QLNS\QLNS\Commonlib\obj\Debug\Commonlib.FrmNhanVien.resources
+C:\Users\MAY\Desktop\QLNS\QLNS\Commonlib\obj\Debug\Commonlib.csproj.GenerateResource.Cache
+C:\Users\MAY\Desktop\QLNS\QLNS\Commonlib\obj\Debug\Commonlib.dll.licenses
+C:\Users\MAY\Desktop\QLNS\QLNS\Commonlib\obj\Debug\Commonlib.dll
+C:\Users\MAY\Desktop\QLNS\QLNS\Commonlib\obj\Debug\Commonlib.pdb
+C:\Users\MAY\Desktop\QLNS\QLNS\Commonlib\obj\Debug\Commonlib.Properties.Resources.resources
+C:\Users\MAY\Desktop\QLNS\QLNS\Commonlib\obj\Debug\Commonlib.NV.resources
+C:\Users\MAY\Desktop\PMQL\QLNS\Commonlib\bin\Debug\Commonlib.dll
+C:\Users\MAY\Desktop\PMQL\QLNS\Commonlib\bin\Debug\Commonlib.pdb
+C:\Users\MAY\Desktop\PMQL\QLNS\Commonlib\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\MAY\Desktop\PMQL\QLNS\Commonlib\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\MAY\Desktop\PMQL\QLNS\Commonlib\bin\Debug\DevExpress.Utils.v19.2.dll
+C:\Users\MAY\Desktop\PMQL\QLNS\Commonlib\bin\Debug\DevExpress.XtraBars.v19.2.dll
+C:\Users\MAY\Desktop\PMQL\QLNS\Commonlib\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\Users\MAY\Desktop\PMQL\QLNS\Commonlib\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+C:\Users\MAY\Desktop\PMQL\QLNS\Commonlib\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\MAY\Desktop\PMQL\QLNS\Commonlib\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\Users\MAY\Desktop\PMQL\QLNS\Commonlib\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\MAY\Desktop\PMQL\QLNS\Commonlib\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\MAY\Desktop\PMQL\QLNS\Commonlib\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\MAY\Desktop\PMQL\QLNS\Commonlib\bin\Debug\DevExpress.XtraBars.v19.2.xml
+C:\Users\MAY\Desktop\PMQL\QLNS\Commonlib\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\MAY\Desktop\PMQL\QLNS\Commonlib\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+C:\Users\MAY\Desktop\PMQL\QLNS\Commonlib\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\MAY\Desktop\PMQL\QLNS\Commonlib\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\MAY\Desktop\PMQL\QLNS\Commonlib\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\MAY\Desktop\PMQL\QLNS\Commonlib\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\MAY\Desktop\PMQL\QLNS\Commonlib\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\MAY\Desktop\PMQL\QLNS\Commonlib\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\MAY\Desktop\PMQL\QLNS\Commonlib\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\MAY\Desktop\PMQL\QLNS\Commonlib\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\MAY\Desktop\PMQL\QLNS\Commonlib\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\MAY\Desktop\PMQL\QLNS\Commonlib\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\MAY\Desktop\PMQL\QLNS\Commonlib\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\MAY\Desktop\PMQL\QLNS\Commonlib\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\MAY\Desktop\PMQL\QLNS\Commonlib\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\MAY\Desktop\PMQL\QLNS\Commonlib\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\MAY\Desktop\PMQL\QLNS\Commonlib\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\MAY\Desktop\PMQL\QLNS\Commonlib\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\MAY\Desktop\PMQL\QLNS\Commonlib\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\MAY\Desktop\PMQL\QLNS\Commonlib\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\MAY\Desktop\PMQL\QLNS\Commonlib\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\MAY\Desktop\PMQL\QLNS\Commonlib\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\MAY\Desktop\PMQL\QLNS\Commonlib\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\MAY\Desktop\PMQL\QLNS\Commonlib\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\MAY\Desktop\PMQL\QLNS\Commonlib\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\MAY\Desktop\PMQL\QLNS\Commonlib\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\MAY\Desktop\PMQL\QLNS\Commonlib\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\MAY\Desktop\PMQL\QLNS\Commonlib\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\MAY\Desktop\PMQL\QLNS\Commonlib\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\MAY\Desktop\PMQL\QLNS\Commonlib\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\MAY\Desktop\PMQL\QLNS\Commonlib\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\MAY\Desktop\PMQL\QLNS\Commonlib\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\MAY\Desktop\PMQL\QLNS\Commonlib\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\MAY\Desktop\PMQL\QLNS\Commonlib\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\MAY\Desktop\PMQL\QLNS\Commonlib\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\MAY\Desktop\PMQL\QLNS\Commonlib\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\MAY\Desktop\PMQL\QLNS\Commonlib\obj\Debug\Commonlib.csprojResolveAssemblyReference.cache
+C:\Users\MAY\Desktop\PMQL\QLNS\Commonlib\obj\Debug\Commonlib.FRLG.resources
+C:\Users\MAY\Desktop\PMQL\QLNS\Commonlib\obj\Debug\Commonlib.FrmNhanVien.resources
+C:\Users\MAY\Desktop\PMQL\QLNS\Commonlib\obj\Debug\Commonlib.FrmNV.resources
+C:\Users\MAY\Desktop\PMQL\QLNS\Commonlib\obj\Debug\Commonlib.Properties.Resources.resources
+C:\Users\MAY\Desktop\PMQL\QLNS\Commonlib\obj\Debug\Commonlib.csproj.GenerateResource.Cache
+C:\Users\MAY\Desktop\PMQL\QLNS\Commonlib\obj\Debug\Commonlib.dll.licenses
+C:\Users\MAY\Desktop\PMQL\QLNS\Commonlib\obj\Debug\Commonlib.dll
+C:\Users\MAY\Desktop\PMQL\QLNS\Commonlib\obj\Debug\Commonlib.pdb
+C:\Users\ASUS\Desktop\PMQL1711\PMQL\QLNS\Commonlib\bin\Debug\Commonlib.dll
+C:\Users\ASUS\Desktop\PMQL1711\PMQL\QLNS\Commonlib\bin\Debug\Commonlib.pdb
+C:\Users\ASUS\Desktop\PMQL1711\PMQL\QLNS\Commonlib\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\ASUS\Desktop\PMQL1711\PMQL\QLNS\Commonlib\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\ASUS\Desktop\PMQL1711\PMQL\QLNS\Commonlib\bin\Debug\DevExpress.Utils.v19.2.dll
+C:\Users\ASUS\Desktop\PMQL1711\PMQL\QLNS\Commonlib\bin\Debug\DevExpress.XtraBars.v19.2.dll
+C:\Users\ASUS\Desktop\PMQL1711\PMQL\QLNS\Commonlib\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\Users\ASUS\Desktop\PMQL1711\PMQL\QLNS\Commonlib\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+C:\Users\ASUS\Desktop\PMQL1711\PMQL\QLNS\Commonlib\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\ASUS\Desktop\PMQL1711\PMQL\QLNS\Commonlib\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\Users\ASUS\Desktop\PMQL1711\PMQL\QLNS\Commonlib\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\ASUS\Desktop\PMQL1711\PMQL\QLNS\Commonlib\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\ASUS\Desktop\PMQL1711\PMQL\QLNS\Commonlib\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\ASUS\Desktop\PMQL1711\PMQL\QLNS\Commonlib\bin\Debug\DevExpress.XtraBars.v19.2.xml
+C:\Users\ASUS\Desktop\PMQL1711\PMQL\QLNS\Commonlib\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\ASUS\Desktop\PMQL1711\PMQL\QLNS\Commonlib\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+C:\Users\ASUS\Desktop\PMQL1711\PMQL\QLNS\Commonlib\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\ASUS\Desktop\PMQL1711\PMQL\QLNS\Commonlib\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\ASUS\Desktop\PMQL1711\PMQL\QLNS\Commonlib\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQL1711\PMQL\QLNS\Commonlib\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQL1711\PMQL\QLNS\Commonlib\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQL1711\PMQL\QLNS\Commonlib\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQL1711\PMQL\QLNS\Commonlib\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQL1711\PMQL\QLNS\Commonlib\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQL1711\PMQL\QLNS\Commonlib\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQL1711\PMQL\QLNS\Commonlib\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQL1711\PMQL\QLNS\Commonlib\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQL1711\PMQL\QLNS\Commonlib\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQL1711\PMQL\QLNS\Commonlib\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQL1711\PMQL\QLNS\Commonlib\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQL1711\PMQL\QLNS\Commonlib\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQL1711\PMQL\QLNS\Commonlib\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQL1711\PMQL\QLNS\Commonlib\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQL1711\PMQL\QLNS\Commonlib\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQL1711\PMQL\QLNS\Commonlib\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQL1711\PMQL\QLNS\Commonlib\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQL1711\PMQL\QLNS\Commonlib\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQL1711\PMQL\QLNS\Commonlib\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQL1711\PMQL\QLNS\Commonlib\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQL1711\PMQL\QLNS\Commonlib\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQL1711\PMQL\QLNS\Commonlib\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQL1711\PMQL\QLNS\Commonlib\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQL1711\PMQL\QLNS\Commonlib\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQL1711\PMQL\QLNS\Commonlib\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQL1711\PMQL\QLNS\Commonlib\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQL1711\PMQL\QLNS\Commonlib\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQL1711\PMQL\QLNS\Commonlib\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQL1711\PMQL\QLNS\Commonlib\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQL1711\PMQL\QLNS\Commonlib\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQL1711\PMQL\QLNS\Commonlib\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQL1711\PMQL\QLNS\Commonlib\obj\Debug\Commonlib.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\PMQL1711\PMQL\QLNS\Commonlib\obj\Debug\Commonlib.FrmLG.resources
+C:\Users\ASUS\Desktop\PMQL1711\PMQL\QLNS\Commonlib\obj\Debug\Commonlib.FrmNV.resources
+C:\Users\ASUS\Desktop\PMQL1711\PMQL\QLNS\Commonlib\obj\Debug\Commonlib.Properties.Resources.resources
+C:\Users\ASUS\Desktop\PMQL1711\PMQL\QLNS\Commonlib\obj\Debug\Commonlib.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\PMQL1711\PMQL\QLNS\Commonlib\obj\Debug\Commonlib.dll.licenses
+C:\Users\ASUS\Desktop\PMQL1711\PMQL\QLNS\Commonlib\obj\Debug\Commonlib.dll
+C:\Users\ASUS\Desktop\PMQL1711\PMQL\QLNS\Commonlib\obj\Debug\Commonlib.pdb
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\Commonlib.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\Commonlib.pdb
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\DevExpress.Utils.v19.2.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\DevExpress.XtraBars.v19.2.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\DevExpress.Office.v19.2.Core.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\DevExpress.Images.v19.2.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\DevExpress.XtraBars.v19.2.xml
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\DevExpress.Office.v19.2.Core.xml
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\obj\Debug\Commonlib.FrmBangCong.resources
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\obj\Debug\Commonlib.FrmLG.resources
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\obj\Debug\Commonlib.FrmNV.resources
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\obj\Debug\Commonlib.Properties.Resources.resources
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\obj\Debug\Commonlib.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\obj\Debug\Commonlib.dll.licenses
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\obj\Debug\Commonlib.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\obj\Debug\Commonlib.pdb
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\obj\Debug\Commonlib.FrmBangChamCong.resources
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\Commonlib.dll.config
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS\Commonlib\obj\Debug\Commonlib.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\Commonlib.dll.config
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\Commonlib.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\Commonlib.pdb
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\DevExpress.Utils.v19.2.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\DevExpress.XtraBars.v19.2.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\DevExpress.Office.v19.2.Core.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\DevExpress.Images.v19.2.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\DevExpress.XtraBars.v19.2.xml
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\DevExpress.Office.v19.2.Core.xml
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\obj\Debug\Commonlib.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\obj\Debug\Commonlib.FrmBangChamCong.resources
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\obj\Debug\Commonlib.FrmBangCong.resources
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\obj\Debug\Commonlib.FrmLG.resources
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\obj\Debug\Commonlib.FrmNV.resources
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\obj\Debug\Commonlib.Properties.Resources.resources
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\obj\Debug\Commonlib.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\obj\Debug\Commonlib.dll.licenses
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\obj\Debug\Commonlib.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\obj\Debug\Commonlib.pdb
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\obj\Debug\Commonlib.FrmWait.resources
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\DevExpress.XtraPivotGrid.v19.2.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\DevExpress.PivotGrid.v19.2.Core.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\DevExpress.XtraPivotGrid.v19.2.xml
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\DevExpress.PivotGrid.v19.2.Core.xml
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\de\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\es\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\de\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\es\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\ja\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\bin\Debug\ru\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - NOW\Commonlib\obj\Debug\Commonlib.FrmCapNhatNgayCong.resources
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\obj\Debug\Commonlib.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\obj\Debug\Commonlib.FrmBangChamCong.resources
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\obj\Debug\Commonlib.FrmBangCong.resources
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\obj\Debug\Commonlib.FrmCapNhatNgayCong.resources
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\obj\Debug\Commonlib.FrmLG.resources
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\obj\Debug\Commonlib.FrmWait.resources
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\obj\Debug\Commonlib.Properties.Resources.resources
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\obj\Debug\Commonlib.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\obj\Debug\Commonlib.dll.licenses
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\obj\Debug\Commonlib.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\obj\Debug\Commonlib.pdb
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\Commonlib.dll.config
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\Commonlib.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\Commonlib.pdb
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\Data.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\DevExpress.Utils.v19.2.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\DevExpress.XtraBars.v19.2.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\DevExpress.XtraPivotGrid.v19.2.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\DevExpress.PivotGrid.v19.2.Core.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\DevExpress.Office.v19.2.Core.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\DevExpress.Images.v19.2.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\Data.pdb
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\DevExpress.XtraBars.v19.2.xml
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\DevExpress.XtraPivotGrid.v19.2.xml
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\DevExpress.PivotGrid.v19.2.Core.xml
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\DevExpress.Office.v19.2.Core.xml
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\de\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\es\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\de\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\es\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\ja\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\ru\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\obj\Debug\Commonlib.ucPhanCong.resources
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\obj\Debug\Commonlib.ucTrinhDo.resources
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\obj\Debug\Commonlib.ucChucVu.resources
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\obj\Debug\Commonlib.ucPhongBan.resources
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Commonlib\obj\Debug\Commonlib.ucNhanVien.resources
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\obj\Debug\Commonlib.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\obj\Debug\Commonlib.FrmBangChamCong.resources
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\obj\Debug\Commonlib.FrmBangCong.resources
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\obj\Debug\Commonlib.FrmCapNhatNgayCong.resources
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\obj\Debug\Commonlib.FrmLG.resources
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\obj\Debug\Commonlib.FrmWait.resources
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\obj\Debug\Commonlib.Properties.Resources.resources
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\obj\Debug\Commonlib.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\obj\Debug\Commonlib.dll.licenses
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\obj\Debug\Commonlib.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\obj\Debug\Commonlib.pdb
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\Commonlib.dll.config
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\Commonlib.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\Commonlib.pdb
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\Data.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\DevExpress.Utils.v19.2.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\DevExpress.XtraBars.v19.2.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\DevExpress.XtraPivotGrid.v19.2.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\DevExpress.PivotGrid.v19.2.Core.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\DevExpress.Office.v19.2.Core.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\DevExpress.Images.v19.2.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\Data.pdb
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\DevExpress.XtraBars.v19.2.xml
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\DevExpress.XtraPivotGrid.v19.2.xml
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\DevExpress.PivotGrid.v19.2.Core.xml
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\DevExpress.Office.v19.2.Core.xml
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\de\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\es\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\de\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\es\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\ja\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\ru\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\obj\Debug\Commonlib.FrmTimKiemNV.resources
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\obj\Debug\Commonlib.FrmChucVu.resources
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\obj\Debug\Commonlib.FrmNhanVien.resources
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\obj\Debug\Commonlib.FrmPhanCong.resources
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\obj\Debug\Commonlib.FrmPhongBan.resources
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\obj\Debug\Commonlib.FrmTrinhDo.resources
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\obj\Debug\Commonlib.FrmHopDong.resources
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\DevExpress.XtraRichEdit.v19.2.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\DevExpress.XtraRichEdit.v19.2.xml
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\de\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\es\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\ja\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\ru\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\DevExpress.Charts.v19.2.Core.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\DevExpress.RichEdit.v19.2.Export.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\DevExpress.XtraCharts.v19.2.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\DevExpress.XtraGauges.v19.2.Core.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\DevExpress.XtraReports.v19.2.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\DevExpress.Xpo.v19.2.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\DevExpress.DataAccess.v19.2.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\DevExpress.CodeParser.v19.2.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\DevExpress.XtraGauges.v19.2.Core.xml
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\DevExpress.XtraReports.v19.2.xml
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\DevExpress.Xpo.v19.2.xml
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\DevExpress.DataAccess.v19.2.xml
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\de\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\es\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\de\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\es\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\ja\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\ru\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\de\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\es\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\ja\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\bin\Debug\ru\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\obj\Debug\Commonlib.PrtBangCongTongHop.resources
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\obj\Debug\Commonlib.TinhLuong.FrmPhuCap.resources
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\obj\Debug\Commonlib.TinhLuong.FrmUngLuong.resources
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\obj\Debug\Commonlib.TinhLuong.FrmTangCa.resources
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\obj\Debug\Commonlib.FrmNV_ThoiViec.resources
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\obj\Debug\Commonlib.FrmLuongNV.resources
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\obj\Debug\Commonlib.FrmKTKL.resources
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\obj\Debug\Commonlib.RptDanhSachNhanVien.resources
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\obj\Debug\Commonlib.FrmBangLuong.resources
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\obj\Debug\Commonlib.FrmQTPC.resources
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\obj\Debug\Commonlib.FrmQTNL.resources
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Commonlib\obj\Debug\Commonlib.RptBangLuong.resources

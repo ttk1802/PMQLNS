@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="QL_NhanSuModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="BANGCONG_NHANVIEN_CHITIET">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="MAKYCONG" Type="int" Nullable="false" />
+    <Property Name="MANV" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="HOTEN" Type="nvarchar" MaxLength="50" />
+    <Property Name="NGAY" Type="datetime" />
+    <Property Name="THU" Type="nvarchar" MaxLength="50" />
+    <Property Name="GIOVAO" Type="nvarchar" MaxLength="50" />
+    <Property Name="GIORA" Type="nvarchar" MaxLength="50" />
+    <Property Name="NGAYPHEP" Type="float" />
+    <Property Name="CONGNGAYLE" Type="float" />
+    <Property Name="CONGCHUNHAT" Type="float" />
+    <Property Name="KYHIEU" Type="nvarchar" MaxLength="50" />
+    <Property Name="GHICHU" Type="nvarchar" MaxLength="500" />
+  </EntityType>
+  <EntityType Name="KYCONG">
+    <Key>
+      <PropertyRef Name="MAKYCONG" />
+    </Key>
+    <Property Name="MAKYCONG" Type="int" Nullable="false" />
+    <Property Name="THANG" Type="int" />
+    <Property Name="NAM" Type="int" />
+    <Property Name="KHOA" Type="bit" />
+    <Property Name="NGAYTINHCONG" Type="datetime" />
+    <Property Name="NGAYCONGTRONGTHANG" Type="float" />
+    <Property Name="TRANGTHAI" Type="bit" />
+  </EntityType>
+  <EntityType Name="KYCONGCHITIET">
+    <Key>
+      <PropertyRef Name="MAKYCONG" />
+      <PropertyRef Name="MANV" />
+    </Key>
+    <Property Name="MAKYCONG" Type="int" Nullable="false" />
+    <Property Name="MANV" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="HOTEN" Type="nvarchar" MaxLength="50" />
+    <Property Name="D1" Type="nvarchar" MaxLength="10" />
+    <Property Name="D2" Type="nvarchar" MaxLength="10" />
+    <Property Name="D3" Type="nvarchar" MaxLength="10" />
+    <Property Name="D4" Type="nvarchar" MaxLength="10" />
+    <Property Name="D5" Type="nvarchar" MaxLength="10" />
+    <Property Name="D6" Type="nvarchar" MaxLength="10" />
+    <Property Name="D7" Type="nvarchar" MaxLength="10" />
+    <Property Name="D8" Type="nvarchar" MaxLength="10" />
+    <Property Name="D9" Type="nvarchar" MaxLength="10" />
+    <Property Name="D10" Type="nvarchar" MaxLength="10" />
+    <Property Name="D11" Type="nvarchar" MaxLength="10" />
+    <Property Name="D12" Type="nvarchar" MaxLength="10" />
+    <Property Name="D13" Type="nvarchar" MaxLength="10" />
+    <Property Name="D14" Type="nvarchar" MaxLength="10" />
+    <Property Name="D15" Type="nvarchar" MaxLength="10" />
+    <Property Name="D16" Type="nvarchar" MaxLength="10" />
+    <Property Name="D17" Type="nvarchar" MaxLength="10" />
+    <Property Name="D18" Type="nvarchar" MaxLength="10" />
+    <Property Name="D19" Type="nvarchar" MaxLength="10" />
+    <Property Name="D20" Type="nvarchar" MaxLength="10" />
+    <Property Name="D21" Type="nvarchar" MaxLength="10" />
+    <Property Name="D22" Type="nvarchar" MaxLength="10" />
+    <Property Name="D23" Type="nvarchar" MaxLength="10" />
+    <Property Name="D24" Type="nvarchar" MaxLength="10" />
+    <Property Name="D25" Type="nvarchar" MaxLength="10" />
+    <Property Name="D26" Type="nvarchar" MaxLength="10" />
+    <Property Name="D27" Type="nvarchar" MaxLength="10" />
+    <Property Name="D28" Type="nvarchar" MaxLength="10" />
+    <Property Name="D29" Type="nvarchar" MaxLength="10" />
+    <Property Name="D30" Type="nvarchar" MaxLength="10" />
+    <Property Name="D31" Type="nvarchar" MaxLength="10" />
+    <Property Name="NGAYCONG" Type="float" />
+    <Property Name="NGAYPHEP" Type="float" />
+    <Property Name="NGHIKHONGPHEP" Type="float" />
+    <Property Name="CONGNGAYLE" Type="float" />
+    <Property Name="CONGCHUNHAT" Type="float" />
+    <Property Name="TONGNGAYCONG" Type="float" />
+  </EntityType>
+  <EntityType Name="NhanVien">
+    <Key>
+      <PropertyRef Name="MaNV" />
+    </Key>
+    <Property Name="MaNV" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="TenNV" Type="nvarchar" MaxLength="255" />
+    <Property Name="GioiTinh" Type="nvarchar" MaxLength="10" />
+    <Property Name="NgaySinh" Type="date" />
+    <Property Name="QueQuan" Type="nvarchar" MaxLength="255" />
+    <Property Name="SDT" Type="varchar" MaxLength="255" />
+    <Property Name="DiaChi" Type="nvarchar" MaxLength="255" />
+    <Property Name="NgayVaoLam" Type="date" />
+    <Property Name="CCCD" Type="varchar" MaxLength="255" />
+    <Property Name="NgayCap" Type="date" />
+    <Property Name="NoiCap" Type="nvarchar" MaxLength="255" />
+    <Property Name="Ghichu" Type="varchar" MaxLength="255" />
+    <Property Name="MaBH" Type="varchar" MaxLength="50" />
+    <Property Name="MaTD" Type="varchar" MaxLength="50" />
+    <Property Name="MaPC" Type="varchar" MaxLength="50" />
+    <Property Name="MaHD" Type="varchar" MaxLength="50" />
+    <Property Name="MaCC" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <Association Name="fk_KyCong_NhanVien_MAKYCONG">
+    <End Role="KYCONG" Type="Self.KYCONG" Multiplicity="1" />
+    <End Role="KYCONGCHITIET" Type="Self.KYCONGCHITIET" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="KYCONG">
+        <PropertyRef Name="MAKYCONG" />
+      </Principal>
+      <Dependent Role="KYCONGCHITIET">
+        <PropertyRef Name="MAKYCONG" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="fk_KyCong_NhanVien_MaNV">
+    <End Role="NhanVien" Type="Self.NhanVien" Multiplicity="1" />
+    <End Role="KYCONGCHITIET" Type="Self.KYCONGCHITIET" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="NhanVien">
+        <PropertyRef Name="MaNV" />
+      </Principal>
+      <Dependent Role="KYCONGCHITIET">
+        <PropertyRef Name="MANV" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="QL_NhanSuModelStoreContainer">
+    <EntitySet Name="BANGCONG_NHANVIEN_CHITIET" EntityType="Self.BANGCONG_NHANVIEN_CHITIET" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="KYCONG" EntityType="Self.KYCONG" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="KYCONGCHITIET" EntityType="Self.KYCONGCHITIET" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="NhanVien" EntityType="Self.NhanVien" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="fk_KyCong_NhanVien_MAKYCONG" Association="Self.fk_KyCong_NhanVien_MAKYCONG">
+      <End Role="KYCONG" EntitySet="KYCONG" />
+      <End Role="KYCONGCHITIET" EntitySet="KYCONGCHITIET" />
+    </AssociationSet>
+    <AssociationSet Name="fk_KyCong_NhanVien_MaNV" Association="Self.fk_KyCong_NhanVien_MaNV">
+      <End Role="NhanVien" EntitySet="NhanVien" />
+      <End Role="KYCONGCHITIET" EntitySet="KYCONGCHITIET" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

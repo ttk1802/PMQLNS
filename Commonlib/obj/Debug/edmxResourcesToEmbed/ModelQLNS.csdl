@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="QL_NhanSuModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="KYCONG">
+    <Key>
+      <PropertyRef Name="MAKYCONG" />
+    </Key>
+    <Property Name="MAKYCONG" Type="Int32" Nullable="false" />
+    <Property Name="THANG" Type="Int32" />
+    <Property Name="NAM" Type="Int32" />
+    <Property Name="KHOA" Type="Boolean" />
+    <Property Name="NGAYTINHCONG" Type="DateTime" Precision="3" />
+    <Property Name="NGAYCONGTRONGTHANG" Type="Double" />
+    <Property Name="TRANGTHAI" Type="Boolean" />
+    <NavigationProperty Name="KYCONGCHITIET" Relationship="Self.fk_KyCong_NhanVien_MAKYCONG" FromRole="KYCONG" ToRole="KYCONGCHITIET" />
+  </EntityType>
+  <EntityType Name="KYCONGCHITIET">
+    <Key>
+      <PropertyRef Name="MAKYCONG" />
+      <PropertyRef Name="MANV" />
+    </Key>
+    <Property Name="MAKYCONG" Type="Int32" Nullable="false" />
+    <Property Name="MANV" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="HOTEN" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="D1" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="D2" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="D3" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="D4" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="D5" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="D6" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="D7" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="D8" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="D9" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="D10" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="D11" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="D12" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="D13" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="D14" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="D15" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="D16" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="D17" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="D18" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="D19" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="D20" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="D21" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="D22" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="D23" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="D24" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="D25" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="D26" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="D27" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="D28" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="D29" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="D30" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="D31" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="NGAYCONG" Type="Double" />
+    <Property Name="NGAYPHEP" Type="Double" />
+    <Property Name="NGHIKHONGPHEP" Type="Double" />
+    <Property Name="CONGNGAYLE" Type="Double" />
+    <Property Name="CONGCHUNHAT" Type="Double" />
+    <Property Name="TONGNGAYCONG" Type="Double" />
+    <NavigationProperty Name="KYCONG" Relationship="Self.fk_KyCong_NhanVien_MAKYCONG" FromRole="KYCONGCHITIET" ToRole="KYCONG" />
+    <NavigationProperty Name="NhanVien" Relationship="QL_NhanSuModel.fk_KyCong_NhanVien_MaNV" FromRole="KYCONGCHITIET" ToRole="NhanVien" />
+  </EntityType>
+  <Association Name="fk_KyCong_NhanVien_MAKYCONG">
+    <End Role="KYCONG" Type="Self.KYCONG" Multiplicity="1" />
+    <End Role="KYCONGCHITIET" Type="Self.KYCONGCHITIET" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="KYCONG">
+        <PropertyRef Name="MAKYCONG" />
+      </Principal>
+      <Dependent Role="KYCONGCHITIET">
+        <PropertyRef Name="MAKYCONG" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="QL_NhanSuEntities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="KYCONG" EntityType="Self.KYCONG" />
+    <EntitySet Name="KYCONGCHITIET" EntityType="Self.KYCONGCHITIET" />
+    <AssociationSet Name="fk_KyCong_NhanVien_MAKYCONG" Association="Self.fk_KyCong_NhanVien_MAKYCONG">
+      <End Role="KYCONG" EntitySet="KYCONG" />
+      <End Role="KYCONGCHITIET" EntitySet="KYCONGCHITIET" />
+    </AssociationSet>
+    <EntitySet Name="NhanVien" EntityType="QL_NhanSuModel.NhanVien" />
+    <AssociationSet Name="fk_KyCong_NhanVien_MaNV" Association="QL_NhanSuModel.fk_KyCong_NhanVien_MaNV">
+      <End Role="NhanVien" EntitySet="NhanVien" />
+      <End Role="KYCONGCHITIET" EntitySet="KYCONGCHITIET" />
+    </AssociationSet>
+    <EntitySet Name="BANGCONG_NHANVIEN_CHITIET" EntityType="QL_NhanSuModel.BANGCONG_NHANVIEN_CHITIET" />
+  </EntityContainer>
+  <EntityType Name="NhanVien">
+    <Key>
+      <PropertyRef Name="MaNV" />
+    </Key>
+    <Property Name="MaNV" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="TenNV" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Name="GioiTinh" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="NgaySinh" Type="DateTime" Precision="0" />
+    <Property Name="QueQuan" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Name="SDT" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="DiaChi" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Name="NgayVaoLam" Type="DateTime" Precision="0" />
+    <Property Name="CCCD" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="NgayCap" Type="DateTime" Precision="0" />
+    <Property Name="NoiCap" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Name="Ghichu" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="MaBH" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="MaTD" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="MaPC" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="MaHD" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="MaCC" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="KYCONGCHITIET" Relationship="QL_NhanSuModel.fk_KyCong_NhanVien_MaNV" FromRole="NhanVien" ToRole="KYCONGCHITIET" />
+  </EntityType>
+  <Association Name="fk_KyCong_NhanVien_MaNV">
+    <End Type="QL_NhanSuModel.NhanVien" Role="NhanVien" Multiplicity="1" />
+    <End Type="QL_NhanSuModel.KYCONGCHITIET" Role="KYCONGCHITIET" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="NhanVien">
+        <PropertyRef Name="MaNV" />
+      </Principal>
+      <Dependent Role="KYCONGCHITIET">
+        <PropertyRef Name="MANV" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="BANGCONG_NHANVIEN_CHITIET">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="MAKYCONG" Type="Int32" Nullable="false" />
+    <Property Name="MANV" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="HOTEN" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="NGAY" Type="DateTime" Precision="3" />
+    <Property Name="THU" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="GIOVAO" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="GIORA" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="NGAYPHEP" Type="Double" />
+    <Property Name="CONGNGAYLE" Type="Double" />
+    <Property Name="CONGCHUNHAT" Type="Double" />
+    <Property Name="KYHIEU" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="GHICHU" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+  </EntityType>
+</Schema>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="768d75ac167746538bd60d5a246b6fff" Name="Diagram1" ZoomLevel="55">
+        <EntityTypeShape EntityType="QL_NSModel.BANGCONG_NHANVIEN_CHITIET" Width="1.5" PointX="0.75" PointY="0.75" />
+        <EntityTypeShape EntityType="QL_NSModel.KYCONG" Width="1.5" PointX="6" PointY="32.75" />
+        <EntityTypeShape EntityType="QL_NSModel.KYCONGCHITIET" Width="1.5" PointX="8.25" PointY="20.375" />
+        <EntityTypeShape EntityType="QL_NSModel.NhanVien" Width="1.5" PointX="3" PointY="22" />
+        <EntityTypeShape EntityType="QL_NSModel.tb_BaoHiem" Width="1.5" PointX="5.25" PointY="55" />
+        <EntityTypeShape EntityType="QL_NSModel.tb_ChucVu" Width="1.5" PointX="3" PointY="29.5" />
+        <EntityTypeShape EntityType="QL_NSModel.tb_HopDong" Width="1.5" PointX="5.25" PointY="44.75" />
+        <EntityTypeShape EntityType="QL_NSModel.tb_KhenThuong_KyLuat" Width="1.5" PointX="5.25" PointY="13.5" />
+        <EntityTypeShape EntityType="QL_NSModel.tb_LoaiCa" Width="1.5" PointX="3" PointY="32.125" />
+        <EntityTypeShape EntityType="QL_NSModel.tb_Luong_NV" Width="1.5" PointX="5.25" PointY="48.375" />
+        <EntityTypeShape EntityType="QL_NSModel.tb_PhanCong" Width="1.5" PointX="5.25" PointY="24.5" />
+        <EntityTypeShape EntityType="QL_NSModel.tb_PhongBan" Width="1.5" PointX="3" PointY="18.75" />
+        <EntityTypeShape EntityType="QL_NSModel.tb_PhuCap" Width="1.5" PointX="9" PointY="17.125" />
+        <EntityTypeShape EntityType="QL_NSModel.tb_PhuCap_NhanVien" Width="1.5" PointX="11.25" PointY="23.625" />
+        <EntityTypeShape EntityType="QL_NSModel.tb_TaiKhoan" Width="1.5" PointX="5.25" PointY="41.625" />
+        <EntityTypeShape EntityType="QL_NSModel.tb_TangCa" Width="1.5" PointX="5.25" PointY="28.375" />
+        <EntityTypeShape EntityType="QL_NSModel.tb_TinhTrangNV" Width="1.5" PointX="5.25" PointY="51.5" />
+        <EntityTypeShape EntityType="QL_NSModel.tb_TrinhDo" Width="1.5" PointX="0.75" PointY="24.125" />
+        <EntityTypeShape EntityType="QL_NSModel.tb_UngLuong" Width="1.5" PointX="5.25" PointY="20.875" />
+        <AssociationConnector Association="QL_NSModel.fk_KyCong_NhanVien_MAKYCONG" />
+        <AssociationConnector Association="QL_NSModel.fk_KyCong_NhanVien_MaNV" />
+        <AssociationConnector Association="QL_NSModel.fk_BaoHiem_NhanVien" />
+        <AssociationConnector Association="QL_NSModel.fk_HopDong_NhanVien" />
+        <AssociationConnector Association="QL_NSModel.fk_KhenThuong_KyLuat_MaNV" />
+        <AssociationConnector Association="QL_NSModel.fk_Luong_MaNV" />
+        <AssociationConnector Association="QL_NSModel.fk_NhanVien_MaPC" />
+        <AssociationConnector Association="QL_NSModel.fk_NhanVien_MaTD" />
+        <AssociationConnector Association="QL_NSModel.fk_PhuCap_NhanVien" />
+        <AssociationConnector Association="QL_NSModel.fk_TaiKhoan_MaNV" />
+        <AssociationConnector Association="QL_NSModel.fk_TangCa_MaNV" />
+        <AssociationConnector Association="QL_NSModel.fk_TinhTrangNV_ManNV" />
+        <AssociationConnector Association="QL_NSModel.fk_UngLuong_MaNV" />
+        <AssociationConnector Association="QL_NSModel.fk_PhanCong_MaCV" />
+        <AssociationConnector Association="QL_NSModel.fk_TangCa_LoaiCa" />
+        <AssociationConnector Association="QL_NSModel.fk_PhanCong_MaPB" />
+        <AssociationConnector Association="QL_NSModel.fk_NhanVien_PhuCap" />
+        <EntityTypeShape EntityType="QL_NSModel.tb_BangLuong" Width="1.5" PointX="3.375" PointY="0.75" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

@@ -1,0 +1,20 @@
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Data\bin\Debug\Data.dll.config
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Data\bin\Debug\Data.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Data\bin\Debug\Data.pdb
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Data\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Data\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Data\obj\Debug\Data.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow\Data\obj\Debug\Data.pdb
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Data\bin\Debug\Data.dll.config
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Data\bin\Debug\Data.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Data\bin\Debug\Data.pdb
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Data\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Data\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Data\obj\Debug\Data.dll
+C:\Users\ASUS\Desktop\PMQLNS\PMQL\QLNS - TestNow - Copy\Data\obj\Debug\Data.pdb
